@@ -1,5 +1,4 @@
 import React from "react";
-import axios from "axios";
 const TileRepo = () => {
   // const [response, setResponse] = useState();
   const response = [
