@@ -6,7 +6,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, "dist"),
     filename: "bundle.js",
-    publicPath: "http://path-to-tile-app.com/", // Update with your Tile app's public URL
+    publicPath: "https://main--snazzy-valkyrie-328f8e.netlify.app/", // Update with your Tile app's public URL
   },
   plugins: [
     new ModuleFederationPlugin({
